@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// Key generated on my openweathermap account after registration
-        String key="bb41103a6212ad73a96b2031d15b19f8";
+        String key="xxxxxxxxxxxxxxxxxxxxxxx";
         // I've chosen to search by city name but it can be done using other parameters such as longitude and latitude
         String cityName="Paris";
         // I'm building the url that I'll be using to get data from the api.
